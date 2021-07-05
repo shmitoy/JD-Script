@@ -13,7 +13,7 @@ update 2021.7.4 18:26
 #ck 优先读取【JDCookies.txt】 文件内的ck  再到 ENV的 变量 JD_COOKIE='ck1&ck2' 最后才到脚本内 cookies=ck
 cookies = ''
 # 设置被助力的账号可填用户名 或 pin的值不要;
-cash_zlzh = ['Your JD_User', '买买买']
+cash_zlzh = ['jd_57a806c3edf39','jd_521f2b70670f8','dunyu1977','hoxaofe','zygsj','libin501501']
 
 # Env环境设置 通知服务
 # export BARK=''                   # bark服务,苹果商店自行搜索;
